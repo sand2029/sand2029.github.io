@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSSの例</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            color: #666;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSSの例</h1>
+    <p>これはCSSを使用してスタイルを追加したサンプルページです。</p>
+</body>
+</html>
 
